@@ -30,14 +30,23 @@ body
  padding-left: 9px;
  padding-right: 9px;
 }
-
 img
 {
   width: 100%;
 }
-
 h5, p
 {
   margin: 20px;
   color: white;
+}
+.movie_head
+{
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.movie_head i
+{
+  float: right;
 }
